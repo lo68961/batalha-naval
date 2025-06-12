@@ -14,7 +14,7 @@ Simular o posicionamento de dois navios em um tabuleiro 5x5, utilizando vetores 
 - Outro navio é posicionado **horizontalmente**
 - As coordenadas dos navios são exibidas no console
 
-**Arquivo do código**:  
+**link do código**:  https://github.com/lo68961/batalha-naval/blob/main/nivel-novato/batalha_naval_novato.c
 
 
 
